@@ -1,5 +1,6 @@
 import './App.css'
 import Bannar from './Component/Bannar'
+import Features from './Component/Features'
 import NavbarArea from './Component/Navbar'
 import Partner from './Component/Partner'
 
@@ -12,6 +13,7 @@ function App() {
      <NavbarArea/>
      <Bannar/>
      <Partner/>
+     <Features/>
     </>
   )
 }
